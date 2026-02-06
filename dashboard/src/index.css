@@ -1,0 +1,10 @@
+@import 'bulma/css/bulma.css';
+@import 'leaflet/dist/leaflet.css';
+
+
+
+
+body {
+    background-color: #f0f2f5;
+}
+
